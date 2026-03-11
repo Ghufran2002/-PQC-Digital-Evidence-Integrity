@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-**👉 [Click Here to Run Live Demo](https://ghufran2002.github.io/PQC-Digital-Evidence-Integrity/)**
+**👉 [Click Here to Run Live Demo](https://ghufran2002.github.io/-PQC-Digital-Evidence-Integrity/)**
 
 ---
 
@@ -173,7 +173,7 @@ PQC-Digital-Evidence-Integrity/
 
 ### Option 3: GitHub Pages (Online)
 ```
-Visit: https://ghufran2002.github.io/PQC-Digital-Evidence-Integrity/
+Visit: https://ghufran2002.github.io/-PQC-Digital-Evidence-Integrity/
 ```
 
 > **Note:** No installation required! Runs entirely in browser using WebCrypto API. No data is sent to any server — all cryptographic operations are local.
